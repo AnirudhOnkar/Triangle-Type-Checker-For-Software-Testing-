@@ -1,4 +1,4 @@
-# Triangle-Type-Checker-For-Software-Testing-
+# Triangle-Type-Checker (For-Software-Testing)
 Python script to classify triangles based on their side lengths, identifying if they are equilateral, isosceles, or scalene. Also checks for valid triangle input within a specified range.
 
 # Triangle Classifier
@@ -15,8 +15,8 @@ This Python script classifies triangles based on their side lengths, identifying
 
 1. Clone the repository:
 
-
-git clone https://github.com/AnirudhOnkar.git
+https://github.com/AnirudhOnkar
+git clone 
 cd triangle-classifier
 python triangle_classifier.py
 Enter three sides of the triangle:
