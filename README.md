@@ -16,7 +16,7 @@ This Python script classifies triangles based on their side lengths, identifying
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/triangle-classifier.git
+git clone https://github.com/AnirudhOnkar.git
 cd triangle-classifier
 python triangle_classifier.py
 Enter three sides of the triangle:
